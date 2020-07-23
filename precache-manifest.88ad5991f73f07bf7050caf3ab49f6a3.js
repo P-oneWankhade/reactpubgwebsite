@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0514ebb7372af716eedee2afc3673173",
+    "revision": "8bd6006bb0ef333d24bb3668099b14c9",
     "url": "/reactpubgwebsite/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactpubgwebsite/static/css/2.75c4ecca.chunk.css"
   },
   {
-    "revision": "1661838b35302820c905",
+    "revision": "f16b2c5935d290ef905f",
     "url": "/reactpubgwebsite/static/css/main.6b3dcc63.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactpubgwebsite/static/js/2.3d5cc3ee.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1661838b35302820c905",
-    "url": "/reactpubgwebsite/static/js/main.46b329fe.chunk.js"
+    "revision": "f16b2c5935d290ef905f",
+    "url": "/reactpubgwebsite/static/js/main.1f985e26.chunk.js"
   },
   {
     "revision": "fa413737a1c4343a0837",

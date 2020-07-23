@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reactpubgwebsite/static/css/main.6b3dcc63.chunk.css",
-    "main.js": "/reactpubgwebsite/static/js/main.46b329fe.chunk.js",
-    "main.js.map": "/reactpubgwebsite/static/js/main.46b329fe.chunk.js.map",
+    "main.js": "/reactpubgwebsite/static/js/main.1f985e26.chunk.js",
+    "main.js.map": "/reactpubgwebsite/static/js/main.1f985e26.chunk.js.map",
     "runtime-main.js": "/reactpubgwebsite/static/js/runtime-main.2406e3e1.js",
     "runtime-main.js.map": "/reactpubgwebsite/static/js/runtime-main.2406e3e1.js.map",
     "static/css/2.75c4ecca.chunk.css": "/reactpubgwebsite/static/css/2.75c4ecca.chunk.css",
     "static/js/2.3d5cc3ee.chunk.js": "/reactpubgwebsite/static/js/2.3d5cc3ee.chunk.js",
     "static/js/2.3d5cc3ee.chunk.js.map": "/reactpubgwebsite/static/js/2.3d5cc3ee.chunk.js.map",
     "index.html": "/reactpubgwebsite/index.html",
-    "precache-manifest.ea3f2b149c471da0f01d522698d6e292.js": "/reactpubgwebsite/precache-manifest.ea3f2b149c471da0f01d522698d6e292.js",
+    "precache-manifest.88ad5991f73f07bf7050caf3ab49f6a3.js": "/reactpubgwebsite/precache-manifest.88ad5991f73f07bf7050caf3ab49f6a3.js",
     "service-worker.js": "/reactpubgwebsite/service-worker.js",
     "static/css/2.75c4ecca.chunk.css.map": "/reactpubgwebsite/static/css/2.75c4ecca.chunk.css.map",
     "static/css/main.6b3dcc63.chunk.css.map": "/reactpubgwebsite/static/css/main.6b3dcc63.chunk.css.map",
@@ -28,6 +28,6 @@
     "static/css/2.75c4ecca.chunk.css",
     "static/js/2.3d5cc3ee.chunk.js",
     "static/css/main.6b3dcc63.chunk.css",
-    "static/js/main.46b329fe.chunk.js"
+    "static/js/main.1f985e26.chunk.js"
   ]
 }
