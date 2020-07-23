@@ -40,21 +40,21 @@ const Contact = () => {
 
                                     <div class="form-group">
                                         <label for="exampleFormControlInput1"> Full Name </label>
-                                        <input type="text" class="form-control" id="exampleFormControlInput1" name = "fullname"  value = {data.fullname} onChange = {InputEvent} placeholder="Enter Your Name" />
+                                        <input type="text" class="form-control" id="exampleFormControlInput1" name = "fullname" autoComplete = "off" value = {data.fullname} onChange = {InputEvent} placeholder="Enter Your Name" />
                                     </div>
                                     <br />
                                     <div class="form-group">
                                         <label for="exampleFormControlInput1"> Mobile No. </label>
-                                        <input type="number" class="form-control" id="exampleFormControlInput1" name = "phone"  value = {data.phone} onChange = {InputEvent} placeholder="Enter Your Contact no." />
+                                        <input type="number" class="form-control" id="exampleFormControlInput1" name = "phone" autoComplete = "off"  value = {data.phone} onChange = {InputEvent} placeholder="Enter Your Contact no." />
                                     </div>
                                      <br />   
                                     <div class="form-group">
                                         <label for="exampleFormControlInput1">Email address</label>
-                                        <input type="email" class="form-control" id="exampleFormControlInput1" name = "email"  value = {data.email} onChange = {InputEvent} placeholder="Enter Your E-mail" />
+                                        <input type="email" class="form-control" id="exampleFormControlInput1" name = "email" autoComplete = "off" value = {data.email} onChange = {InputEvent} placeholder="Enter Your E-mail" />
                                     </div>
                                     <br />
                                     <div class="form-group">
-                                        <label for="exampleFormControlTextarea1" name = "msg"  value = {data.msg} onChange = {InputEvent}>Message</label>
+                                        <label for="exampleFormControlTextarea1" name = "msg" autoComplete = "off" value = {data.msg} onChange = {InputEvent}>Message</label>
                                         <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                                     </div>
                                     <br />
